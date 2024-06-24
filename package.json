@@ -1,6 +1,6 @@
 {
   "name": "custom-rn-youtube-player",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get your own customised youtube player in your react native application.",
   "main": "index.js",
   "scripts": {
