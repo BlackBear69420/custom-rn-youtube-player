@@ -1,0 +1,31 @@
+{
+  "name": "custom-rn-youtube-player",
+  "version": "1.0.0",
+  "description": "Get your own customised youtube player in your react native application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackBear69420/custom-rn-youtube-player.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "youtube",
+    "player",
+    "custom"
+  ],
+  "author": "Sumit nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackBear69420/custom-rn-youtube-player/issues"
+  },
+  "homepage": "https://github.com/BlackBear69420/custom-rn-youtube-player#readme",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.70.0",
+    "react-native-webview": "^11.23.0"
+  }
+}
